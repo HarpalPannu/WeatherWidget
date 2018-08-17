@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="_0_c">0°C</string>
+    <string name="last_update">Last Update:</string>
+    <string name="humidity">Humidity</string>
+    <string name="_0km_h">0KM/H</string>
+    <string name="windspeed">WindSpeed</string>
+    <string name="_0">0</string>
+    <string name="feels_like_0_c">Feels Like : 0°C</string>
+    <string name="refresh_button">Refresh Button</string>
+    <string name="no_data">No Data</string>
+</resources>
